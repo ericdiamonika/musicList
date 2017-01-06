@@ -1,0 +1,1 @@
+Musics = new Mongo.Collection("lists");
