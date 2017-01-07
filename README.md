@@ -1,4 +1,4 @@
-# projet-meteor
+# Music List
 
 Création d'une Musique liste à partager entre amis !
 
